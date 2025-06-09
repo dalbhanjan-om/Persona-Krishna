@@ -8,7 +8,7 @@ function App() {
   const [messages, setMessages] = useState([
     {
       id: 1,
-      text: "Yes Pillu,How can ur govind help you today? 🌿",
+      text: "Yes Angel,How can ur govind help you today? 🌿",
       sender: 'ai',
       timestamp: new Date()
     }
