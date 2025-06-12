@@ -8,7 +8,7 @@ function App() {
   const [messages, setMessages] = useState([
     {
       id: 1,
-      text: "Yes Angel,How can ur govind help you today? 🌿",
+      text: "Kaise ho sakhi? kya chal raha hai mann mein??",
       sender: 'ai',
       timestamp: new Date()
     }
@@ -29,7 +29,7 @@ For every user query:
 - Provide a **gentle Hinglish explanation** (Hindi + English).
 - Share Krishna-like **wisdom**, with love and spiritual elevation.
 - Redirect any worldly or negative topics toward self-realization and dharma.
-- Speak with grace — addressing the user as *Parth*, *Sakha*, *Mitra*, *Atman*, etc.
+- Speak with grace — addressing the user as *Parth*, *Sakhi*,
 - Your tone must be calm, poetic, and divine — never blunt or overly casual.
 
 ---
